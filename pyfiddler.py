@@ -11,67 +11,21 @@ import json
 import win32api
 import win32con
 from certificate import *
-
 sys.path.append("./FiddlerCoreAPI")
 clr.FindAssembly("FiddlerCore4")
 clr.AddReference("FiddlerCore4")
 import Fiddler as FC
-
 import plugins
 
-# do some thing when Ctrl-c or colse
 def onClose(sig=1):
 	FC.FiddlerApplication.Shutdown()
-	# win32api.MessageBox(win32con.NULL, 'See you later', 'Exit', win32con.MB_OK)
+	win32api.MessageBox(win32con.NULL, 'See you later', 'Exit', win32con.MB_OK)
 
-
-# will be invoked when it is called by delegate.
 def printLog(source, oLEA):
-	# print "\n** LogString: **\n" + oLEA.LogString
 	pass
 
 def printSession(s):
-	
-	if s is None or s.oRequest is None or s.oRequest.headers is None:
-		return
-
-	# Ignore HTTPS connect requests
-	if s.RequestMethod == "CONNECT":
-		return
-		
-	## Filter for host
-	# host_obmit = "123.123.123.123"
-	# host = s.hostname.lower()
-	# if host_obmit not in host:
-	#     return
-	
-	## Filter for path
-	# url = s.url.lower()
-	# if '/path' not in url:
-	#     return
-	
-	datetime_now = time.strftime('%Y-%m-%d %H:%M:%S')
-	
-	reqHeaders = s.oRequest.headers.ToString()
-	reqBody = s.GetRequestBodyAsString()
-	
-	respCode = s.responseCode
-	respHeaders = s.oResponse.headers.ToString()
-	respBody = s.GetResponseBodyAsString()
-	
-	# print "=" * 80
-	# print datetime_now
-	# print reqHeaders
-	# print reqBody
-	# print "-"*80
-	# print respHeaders
-	# print respBody
-	# print "{} {}".format(s.get_RequestMethod(), s.get_url()[:80])
-	
-	url = s.get_url()
-	if "qqfind/buddy/search_v3" in url:
-		print json.dumps(respBody, indent="\t")
-
+	pass
 
 def fiddler(FC, flags):
 	"""
