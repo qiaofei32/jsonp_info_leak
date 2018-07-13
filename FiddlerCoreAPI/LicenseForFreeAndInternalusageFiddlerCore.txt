@@ -1,0 +1,144 @@
+Telerik End User License Agreement for Progress Telerik FiddlerCore Embedded Engine 
+
+(Last Updated May 2, 2017)
+
+IMPORTANT - PLEASE READ THIS END USER LICENSE AGREEMENT (THE "AGREEMENT") CAREFULLY BEFORE ATTEMPTING TO DOWNLOAD OR USE ANY SOFTWARE, DOCUMENTATION, OR OTHER MATERIALS MADE AVAILABLE THROUGH THIS WEB SITE (Telerik.com). THIS AGREEMENT CONSTITUTES A LEGALLY BINDING AGREEMENT BETWEEN YOU OR THE COMPANY WHICH YOU REPRESENT AND ARE AUTHORIZED TO BIND (the "Licensee" or "You" or "Your"), AND TELERIK INC. ("Telerik" or "Licensor"). PLEASE CLICK THE "I AGREE" BUTTON AT THE BOTTOM OF THIS AGREEMENT IF YOU AGREE TO BE BOUND BY THE TERMS AND CONDITIONS OF THIS AGREEMENT. BY CLICKING THE "I AGREE" BUTTON AND/OR BY PURCHASING, DOWNLOADING, INSTALLING OR OTHERWISE USING THE SOFTWARE MADE AVAILABLE BY TELERIK THROUGH THIS WEB SITE, YOU ACKNOWLEDGE (1) THAT YOU HAVE READ THIS AGREEMENT, (2) THAT YOU UNDERSTAND IT, (3) THAT YOU AGREE TO BE BOUND BY ITS TERMS AND CONDITIONS, AND (4) TO THE EXTENT YOU ARE ENTERING INTO THIS AGREEMENT ON BEHALF OF A COMPANY, YOU HAVE THE POWER AND AUTHORITY TO BIND THAT COMPANY.
+
+This License does not grant You a license or any rights to use or distribute the Progress Telerik FiddlerCore Embedded Engine in a public facing, redistributable Integrated Product. For the Progress Telerik FiddlerCore Embedded Engine Commercial License, please contact Telerik sales at sales@telerik.com. 
+
+This is a license agreement and not an agreement for sale. Any and all rights in the Software not expressly granted to You as part of the License hereunder are reserved in all respects by Telerik.
+
+1	DEFINITIONS
+
+"Authorized End Users" means Licensee's own employees or subcontractors, each of whom is authorized to use the Software as part of Your Integrated Product solely for Your benefit and in accordance with the requirements of this Agreement.
+
+"Documentation" means the documentation accompanying the Program. 
+
+"Integrated Product" means a single internal-facing Licensee software product into which the Program is integrated. "Integrated Product" as defined herein, is further limited to Licensee's software product which: (i) is developed by Your Licensed Developers; (ii) adds substantial functionality beyond the functionality provided by the incorporated components of the Program; (iii) has functionalities which would be considered improvements within the natural progression of the software product; and (iv) is not a commercial alternative for, or competitive in the marketplace with, the Program or any components of the Program.
+
+"Licensed Developers" means one of Your employees or third-party consultants authorized to develop software specifically for You using the Software in accordance with this Agreement.
+
+"Program" means Licensor's computer software identified as Progress Telerik FiddlerCore Embedded Engine and any updates, upgrades, modifications and error corrections provided to Licensee during the term of the Agreement.  The Program is licensed hereunder to License in object code only.
+
+"Software" means the Programs and the Documentation collectively.
+
+2	LICENSE GRANT
+
+Subject to the terms and conditions set forth in this Agreement, Licensor hereby grants to Licensee and Licensee hereby accepts, a limited, non-transferable, sub-licenseable (solely as set forth in Section 2.3 below), non-exclusive license to install, copy, use, and embed within its Integrated Product the Program in executable, object code form only. 
+
+2.1	Personal and Educational License
+The Personal and Educational License is intended for use by students and professors in conjunction with online or in person classroom training and education. Any use or distribution of the software for commercial purposes is expressly prohibited. If You are not a professor or student enrolled at an academic institution who is using the software solely for educational/training purposes, You must obtain a commercial license from Telerik.
+
+2.1.1	Personal and Educational License Grant. If You download and accept the free Personal and Educational License, then, subject to the terms and conditions set forth in this Agreement, Licensor hereby grants to Licensee and Licensee hereby accepts a personal license to use the Software for personal or academic purposes only and solely as part of the academic training or educational course in which You are enrolled. You are not allowed to integrate the Software into end products for any commercial purpose. You may not redistribute the Software to end users other than individuals participating in the academic training or educational course in which You are enrolled. Your Integrated Product may not be used for any nonacademic or commercial purpose unless You purchase a commercial license from Telerik.
+
+2.1.2	Support. No dedicated technical support is provided with the Software, however, as part of Your license You are allowed to access the public support resources offered by Telerik in its sole discretion (e.g. documentation, code library, forums).
+
+2.1.3	Updates. At Telerik's sole discretion, You may receive minor updates (i.e. service pack updates) for the Software version You are using subject to this License. You are not eligible to receive major updates (i.e. major revisions to or new versions of the Software) for the Software. Software updates replace and/or supplement (and may disable) the version of the Software that formed the basis for Your eligibility for the update. You may use the resulting updated Software only in accordance with the terms of this Section 2.1.
+
+2.1.4	THE EDUCATION VERSION OF THE SOFTWARE IS LICENSED 'AS IS'. YOU BEAR THE RISK OF USING IT. TELERIK GIVES NO EXPRESS WARRANTIES, GUARANTEES OR CONDITIONS. YOU MAY HAVE ADDITIONAL RIGHTS UNDER YOUR LOCAL LAWS WHICH THIS AGREEMENT CANNOT CHANGE. TO THE EXTENT PERMITTED UNDER YOUR LOCAL LAWS, TELERIK EXCLUDES THE IMPLIED WARRANTIES OF TITLE, MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NON-INFRINGEMENT.
+
+2.2	Internal Business Systems License with Updates and Support
+
+2.2.1	Internal Business Systems License Grant. If You purchase an Internal Business Systems License with Updates and Support, Your Licensed Developers may use the Software in object code form only in the development of one Integrated Product. In addition, for the applicable period of one (1), two (2) or three (3) years from the date on which You purchased the Software, for which You have purchased updates and support (the "Subscription Period"), You will receive minor and major updates for the Software, as well as the "Priority" support package, each as described in further detail below. 
+
+2.2.2	Internal Business Systems Scope of Use. Your number of Licensed Developers must correspond to the maximum number of seats You have purchased from Telerik hereunder. This means that, at any given time, the number of Licensed Developers cannot exceed the number of seats that You have purchased from Telerik and for which You have paid Telerik all applicable license fees pursuant to this Agreement. The Software is in "use" on a computer when it is loaded into temporary memory (i.e. RAM) or installed into permanent memory (e.g. hard disk or other storage device). Your Licensed Developers may install the Software on multiple machines, so long as it is not being used simultaneously for development purposes at any given time by more Licensed Developers than You have seats.
+
+2.2.3	Support. During the Subscription Period, You are entitled to the "Priority" support package as described in greater detail here: http://www.telerik.com/purchase/support-plans/, subject to the limitations and restrictions described in the following Fair Usage Policy.
+
+2.2.3.1	Support Package Fair Usage Policy. Telerik may limit or terminate Your access to any or all of the support services available under the "Priority" support package if Your use of the support services is determined by Telerik, in its sole and reasonable discretion, to be excessive. 
+
+2.2.3.2	In no event will Telerik provide support of any kind to end-users of Your Integrated Product.
+
+2.2.4	Updates. During the Subscription Period, You will be eligible to receive all major and minor updates for the version of the Software that You license hereunder. Updates replace and/or supplement (and may disable) the version of the Software that formed the basis for Your eligibility for the update. You may use the resulting updated Software only in accordance with the terms of this License.
+
+2.3	Redistribution.  
+
+Subject to the terms of this Agreement, Licensee is granted a limited, non-transferable right to internally distribute the Program in object code form only as embedded in Your Integrated Product to Your Authorized End-Users for use solely within Your organization. You are not permitted to distribute the Programs pursuant to this Section: (i) in any format other than in object form, (ii) as a standalone product, or (iii) as a part of any product other than Your Integrated Product, or (iv) in any manner which causes the Programs to be stored on a server not owned or controlled by You. You must ensure that the Program is not distributed in any form that allows it to be reused by any application other than Your Integrated Product. Licensee is not allowed to and is expressly prohibited from granting its Authorized End Users any right to further sublicense the Program. For avoidance of doubt, Your Authorized End-Users are not permitted to use the Programs, or any portions thereof, for software development or application development purposes unless they also purchase a separate commercial license from Telerik for each of the users.
+
+3	DELIVERY 
+	
+Licensor shall make available for download to Licensee a master copy of the Software. Delivery is deemed complete when the Software is made available at the electronic software download site specified by Licensor.
+4	NO PUBLICITY
+
+Licensee may not publicize or disclose its use of the Software in any way nor use Licensor's name, trademarks, service marks or logos without Licensor's prior written consent.  For avoidance of doubt, use of the Program within the Integrated Product shall be "white label". 
+
+5	OTHER LICENSEE OBLIGATIONS
+	
+In addition to other terms and conditions set forth in this Agreement, Licensee agrees as follows:
+	
+5.1	Licensee shall not export the Programs in violation of the export control laws of the United States or of any other country, and agrees to indemnify Licensor for any breach of this warranty.
+
+5.2	Except where prohibited by law, Licensee shall not, directly or indirectly, engage in the marketing, sale or licensing of any third party products which, in Licensor's opinion, are competitive with the Program licensed hereunder.
+
+5.3	Licensee shall not itself, nor authorize or permit any third party to reverse assemble, reverse compile, translate or otherwise attempt to create the source code from the Program(s) or create derivative works of the Program(s) or any portion thereof, except as may be required by law.
+	
+6	INTELLECTUAL PROPERTY
+
+The Software is licensed, not sold. All title and ownership rights in and to the Software (including but not limited to any images, photographs, animations, video, audio, music, or text embedded in the Software), the intellectual property embodied in the Software, and any trademarks or service marks of Licensor that are used in connection with the Software are and shall at all times remain exclusively owned by Licensor and its licensors. Any and all rights in the Software not expressly granted to Licensee hereunder are reserved in all respects by Licensor. Any open source software that may be delivered by Licensor embedded in or in association with Licensor products is provided pursuant to the open source license applicable to the software and subject to the disclaimers and limitations on liability set forth in such license.
+
+7	TERM AND TERMINATION
+	
+This Agreement and the License granted hereunder shall continue until terminated in accordance with this Section. Unless otherwise specified in this Agreement, the License granted hereunder shall last as long as You use the Software in compliance with the terms herein. Unless otherwise prohibited by law, and without prejudice to Telerik's other rights or remedies, Telerik shall have the right to terminate this Agreement and the License granted hereunder immediately if You breach any of the material terms of this Agreement, and You fail to cure such material breach within thirty (30) days of receipt of notice from Telerik. Upon termination of this Agreement, all Licenses granted to You hereunder shall terminate automatically and You shall immediately cease use and distribution of the Software; provided, however, that any sublicenses granted to Your Authorized End-Users in accordance with Article II, Section 4 shall survive such termination if such Authorized End-Users are in compliance with their license agreements with You. You must also destroy all copies of the Software not integrated into a live, functioning instance of Your Integrated Product already installed, implemented and deployed for Your Authorized End-User(s).  IN NO EVENT SHALL LICENSOR BE REQUIRED TO PAY LICENSEE OR ANY THIRD PARTY ANY TERMINATION DAMAGES OR SPECIAL, INCIDENTAL OR CONSEQUENTIAL DAMAGES OF ANY KIND ARISING ON ACCOUNT OF THE TERMINATION.
+
+8	WARRANTIES
+
+Licensor warrants solely that the Software will perform substantially in accordance with the accompanying written materials for a period of ninety (90) days after the date on which Licensee licenses the Software. Licensor does not warrant the use of the Software will be uninterrupted or error free at all times and in all circumstances, nor that program errors will be corrected. This limited warranty shall not apply to any error or failure resulting from (i) machine error, (ii) Licensee's failure to follow operating instructions, (iii) negligence or accident, or (iv) modifications to the Software by any person or entity other than Licensor. In the event of a breach of warranty, Licensee's sole and exclusive remedy and Licensor's sole and exclusive obligation, is repair of all or any portion of the Software. If such remedy fails of its essential purpose, Licensee's sole remedy and Licensor's maximum liability shall be a refund of the paid purchase price for the defective Software only. This limited warranty is only valid if Licensor receives written notice of breach of warranty no later than thirty (30) days after the warranty period expires. EXCEPT FOR THE EXPRESS WARRANTIES SET FORTH IN THIS SECTION 9, LICENSOR DISCLAIMS ALL OTHER WARRANTIES, EXPRESS OR IMPLIED, INCLUDING WITHOUT LIMITATION THE IMPLIED WARRANTIES OF TITLE, NON-INFRINGEMENT, MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE.
+
+9	LIMITATION OF LIABILITY
+
+		TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, IN NO EVENT WILL LICENSOR BE LIABLE FOR ANY INDIRECT, SPECIAL, INCIDENTAL, OR CONSEQUENTIAL DAMAGES ARISING OUT OF THIS AGREEMENT, INCLUDING, WITHOUT LIMITATION, DAMAGES FOR LOSS OF GOODWILL, WORK STOPPAGE, COMPUTER FAILURE OR MALFUNCTION, OR ANY AND ALL OTHER COMMERCIAL DAMAGES OR LOSSES, EVEN IF ADVISED OF THE POSSIBILITY THEREOF, AND REGARDLESS OF THE LEGAL OR EQUITABLE THEORY (CONTRACT, TORT OR OTHERWISE) UPON WHICH THE CLAIM IS BASED. IN ANY CASE, LICENSOR'S ENTIRE LIABILITY UNDER ANY PROVISION OF THIS AGREEMENT SHALL NOT EXCEED IN THE AGGREGATE THE SUM OF THE FEES LICENSEE PAID TO LICENSOR FOR THE SOFTWARE GIVING RISE TO SUCH DAMAGES, NOTWITHSTANDING ANY FAILURE OF ESSENTIAL PURPOSE OF ANY LIMITED REMEDY. SOME JURISDICTIONS DO NOT ALLOW THE EXCLUSION OR LIMITATION OF INCIDENTAL OR CONSEQUENTIAL DAMAGES, SO THIS EXCLUSION AND LIMITATION MAY NOT BE APPLICABLE. LICENSOR IS NOT RESPONSIBLE FOR ANY LIABILITY ARISING OUT OF CONTENT PROVIDED BY LICENSEE OR A THIRD PARTY THAT IS ACCESSED THROUGH THE PROGRAMS AND/OR ANY MATERIAL LINKED THROUGH SUCH CONTENT. ANY DATA INCLUDED IN THE PROGRAMS UPON SHIPMENT FROM LICENSOR IS FOR TESTING USE ONLY AND LICENSOR HEREBY DISCLAIMS ANY AND ALL LIABILITY ARISING THEREFROM.
+	
+10	INDEMNITY
+	
+Licensee will defend and indemnify Licensor, its affiliates and their directors, officers and employees from or against any and all claims, lawsuits and proceedings (collectively "Claims"), brought by a third party arising out of the exercise of Licensee's rights granted in Section 2 (License Grant), including, but not limited to, a breach of Section 11 (Proprietary and Confidential Information).
+
+11	PROPRIETARY AND CONFIDENTIAL INFORMATION
+	
+Licensee acknowledges that by virtue of this Agreement, the Licensee may have access to information that is confidential to Licensor ("Confidential Information"), including, without limitation, the terms and pricing under this Agreement, any information concerning Licensor's business, plans, customers, technology, Programs and program documentation that are confidential and of substantial value to Licensor, which value would be impaired if such information were disclosed to third parties.  Licensee shall not use in any way for its own account or the account of any third party, nor disclose to any third party, any such Confidential Information revealed to Licensee by Licensor.  Licensee shall take all reasonable measures to protect the confidentiality of such information, including, but not limited to, restricting access to its employees and agents having a need to know the information in order to fulfill the purposes of this Agreement.  Upon request by Licensee, Licensor shall advise whether or not it shall consider any particular information or materials to be confidential.  Except as specified in Section 14 (Term and Termination), in the event of expiration or termination of this Agreement, there shall be no use or disclosure by Licensee of any Confidential Information of Licensor, and Licensee shall not manufacture, reproduce or have manufactured or reproduced any products utilizing any Licensor Confidential Information.  The provisions of this Section shall not apply to information that is, or shall become, rightfully available to the public or that shall already be rightfully in Licensee's possession without obligation of confidentiality prior to disclosure by Licensor. It shall be presumed that any Confidential Information in Licensee's possession that has been disclosed to it by Licensor or any representative of Licensor is not within any of the exceptions above and the burden is on Licensee to prove otherwise by records and documentation.
+
+
+12	 REPORTS AND AUDIT RIGHTS
+
+	Licensee shall grant Licensor audit rights twice within a calendar three hundred and sixty five (365) day period upon two weeks written notice, to verify Licensee's compliance with this Agreement.  Upon request, License shall make available to Licensor complete and accurate books and records relating to its business operations relevant to the calculation of fees under this Agreement. Licensee shall keep adequate records to verify all reports and payments to be made to Licensor pursuant to this Agreement for a period of seven (7) years following the date of such reports and payments.
+	
+13	Compliance with Laws
+
+13.1	In performing this Agreement, Licensee agrees to comply with all applicable laws, rules, regulations and policies and to obtain any governmental approvals, permits or licenses required to perform its obligations under this Agreement, and shall render Licensor harmless and indemnify Licensor from the failure of Licensee to do so.  In addition, Licensee warrants that neither this Agreement, nor any performance or exercise of rights under this Agreement, shall require any termination payment or compulsory licensing under any law or regulation of any organization, country, group of countries or political or governmental body.
+
+13.2	Licensee agrees to comply with the United States Foreign Corrupt Practices Act, including without limitation, that Licensee and its employees and agents shall not directly or indirectly make an offer, payment, promise to pay, or authorize payment, or offer a gift, promise to give, or authorize the giving of anything of value for the purpose of influencing an act or decision of an official of the United States Government or any other government (including a decision not to act) or inducing such a person to use his influence to affect any such governmental act or decision in order to assist Licensee in obtaining, retaining or directing any such business.
+
+13.3	Licensee acknowledges that it is subject to United States laws and regulations controlling the export of technical data, computer software and other commodities and agrees not to export or allow the export or re-export of such data, software or other commodities in violation of such laws and regulations.
+
+14	Governing Law
+
+This Agreement will be governed by the law of the Commonwealth of Massachusetts, U.S.A., without regard to the conflict of laws principles thereof. If any dispute, controversy, or claim cannot be resolved by a good faith discussion between the parties, then it shall be submitted for resolution to a state or Federal court or competent jurisdiction in Boston, Massachusetts, USA, and the parties hereby agree to submit to the jurisdiction and venue of such court. The Uniform Computer Information Transactions Act and the United Nations Convention on the International Sale of Goods shall not apply to this Agreement. If any provision of this Agreement is to be held unenforceable, such holding will not affect the validity of the other provisions hereof. Failure of a party to enforce any provision of this Agreement shall not constitute or be construed as a waiver of such provision or of the right to enforce such provision.
+
+15	Entire Agreement
+
+This Agreement shall constitute the entire agreement between the parties with respect to the subject matter hereof and supersedes all prior and contemporaneous communications regarding the subject matter hereof. Use of any purchase order or other Licensee document in connection herewith shall be for administrative convenience only and all terms and conditions stated therein shall be void and of no effect. The terms and conditions contained in this Agreement shall prevail over any inconsistent provisions in any form or other paper submitted by Licensee. In cases where this license is being obtained through an approved third party, these terms shall supersede any third party license or purchase agreement.
+
+16	Assignment
+
+Except as otherwise expressly permitted herein, You may not assign, sublicense, sub-contract, or otherwise transfer this Agreement, or any rights or obligations under it, without Telerik's prior written consent.
+
+17	Survival
+
+Any provisions of the Agreement containing license restrictions, warranties and warranty disclaimers, confidentiality obligations, limitations of liability and/or indemnity terms, and any provision of the Agreement which, by its nature, is intended to survive shall remain in effect following any termination or expiration of the Agreement.
+
+18	Severability
+
+If a particular provision of this Agreement is terminated or held by a court of competent jurisdiction to be invalid, illegal, or unenforceable, this Agreement shall remain in full force and effect as to the remaining provisions. This Agreement represents the entire understanding between the parties with respect to the subject matter.
+
+19	Force Majeure
+
+Neither party shall be deemed in default of this Agreement if failure or delay in performance is caused by an act of God, fire, flood, severe weather conditions, material shortage or unavailability of transportation, government ordinance, laws, regulations or restrictions, war or civil disorder, or any other cause beyond the reasonable control of such party.
+
+20	Export Classifications
+
+You expressly agree not to use, deploy, export or re-export Telerik Software or Your Integrated Product in or to any country, person, entity or end user subject to U.S. export restrictions. You specifically agree not to export, re-export, or transfer the Software to any country to which the U.S. has embargoed or restricted the export of goods or services, including without limitation any country listed in U.S.A. Export Administration Regulation Country Group E-1, or to any national of any such country, wherever located, who intends to transmit or transport the products back to such country, or to any person or entity who has been prohibited from participating in U.S. export transactions by any federal agency of the U.S. government. You warrant and represent that neither the U.S.A. Bureau of Industry and Security, U.S. Department of Commerce, nor any other federal agency has suspended, revoked or denied Your export privileges.
+
+21	Commercial Software
+
+The Programs and the Documentation are "Commercial Items", as that term is defined at 48 C.F.R. §2.101, consisting of "Commercial Computer Software" and "Commercial Computer Software Documentation", as such terms are used in 48 C.F.R. §12.212 or 48 C.F.R. §227.7202, as applicable. Consistent with 48 C.F.R. §12.212 or 48 C.F.R. §227.7202-1 through 227.7202-4, as applicable, the Commercial Computer Software and Commercial Computer Software Documentation are being licensed to U.S. Government end users (a) only as Commercial Items and (b) with only those rights as are granted to all other end users pursuant to the terms and conditions herein. Unpublished-rights reserved under the copyright laws of the United States.
+
+YOU ACKNOWLEDGE THAT YOU HAVE READ THIS AGREEMENT, THAT YOU UNDERSTAND THIS AGREEMENT, AND UNDERSTAND THAT BY CONTINUING THE INSTALLATION OF THE SOFTWARE PRODUCT, BY LOADING OR RUNNING THE SOFTWARE PRODUCT, OR BY PLACING OR COPYING THE SOFTWARE ONTO YOUR COMPUTER HARD DRIVE, YOU AGREE TO BE BOUND BY THIS AGREEMENT'S TERMS AND CONDITIONS. YOU FURTHER AGREE THAT, EXCEPT FOR WRITTEN SEPARATE AGREEMENTS BETWEEN TELERIK AND YOU, THIS AGREEMENT IS A COMPLETE AND EXCLUSIVE STATEMENT OF THE RIGHTS AND LIABILITIES OF THE PARTIES.
